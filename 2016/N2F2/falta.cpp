@@ -1,5 +1,5 @@
 /*
-* Solução de alysonNBS
+* By @alysonNBS
 * Problema Falta Uma da OBI - 2016 - Segunda Fase - Nível 2
 * Link da prova: http://olimpiada.ic.unicamp.br/extras/provas/ProvaOBI2016_f2p2.pdf
 */
